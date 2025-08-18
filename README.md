@@ -12,11 +12,20 @@ Con ella podrás consultar tu información académica de forma rápida, sencilla
 ✅ Revisar tu **historial académico**.  
 ✅ Iniciar sesión fácil con tu usuario y contraseña institucional.  
 
-<img src="/Mockup/1.png" width="320"/>
-<img src="/Mockup/2.png" width="320"/>
-<img src="/Mockup/3.png" width="320"/>
-<img src="/Mockup/4.png" width="320"/>
-<img src="/Mockup/5.png" width="320"/>
+<div align="center">
+
+  <!-- Fila 1 -->
+  <img src="/Mockup/1.png" width="200"/>
+  <img src="/Mockup/2.png" width="200"/>
+  <img src="/Mockup/3.png" width="200"/>
+  <img src="/Mockup/4.png" width="200"/>
+
+  <br/>
+
+  <!-- Fila 2 -->
+  <img src="/Mockup/5.png" width="320"/>
+
+</div>
 ---
 
 ## 📲 Descargar la app  
