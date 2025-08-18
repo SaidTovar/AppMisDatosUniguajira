@@ -1,6 +1,6 @@
 # 📚 Mis Datos Uniguajira  
 
-Bienvenido a **Mis Datos Uniguajira**, la app oficial hecha para los estudiantes de la **Universidad de La Guajira** 🎓.  
+Bienvenido a **Mis Datos Uniguajira**, la app hecha para los estudiantes de la **Universidad de La Guajira** 🎓.  
 Con ella podrás consultar tu información académica de forma rápida, sencilla y desde cualquier lugar 📱.  
 
 ---
