@@ -24,7 +24,7 @@ Haz clic en el botón para descargar la última versión:
 
 ## 📌 Requisitos  
 
-- 📱 Android **6.0 o superior**  
+- 📱 Android **9.0 o superior**  
 - 🌐 Conexión a internet  
 - 🔑 Usuario y contraseña de la **Universidad de La Guajira**  
 
@@ -32,8 +32,6 @@ Haz clic en el botón para descargar la última versión:
 
 ## 💡 Recomendaciones  
 
-- Guarda tu usuario y contraseña en un lugar seguro 🔒  
-- Descarga siempre la app desde este repositorio para asegurarte de tener la **versión oficial**  
 - Si tienes problemas, desinstala e instala nuevamente la aplicación  
 
 ---
@@ -41,6 +39,6 @@ Haz clic en el botón para descargar la última versión:
 ## 📧 Soporte  
 
 ¿Tienes dudas o encontraste un error? Escríbenos:  
-✉️ **[tu correo aquí]**  
+✉️ **[sytovar@uniguajira.edu.co]**  
 
 ---
