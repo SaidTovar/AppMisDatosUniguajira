@@ -23,7 +23,7 @@ Con ella podrás consultar tu información académica de forma rápida, sencilla
   <br/>
 
   <!-- Fila 2 -->
-  <img src="/Mockup/all.png" width="320"/>
+  <img src="/Mockup/5.png" width="320"/>
 
 </div>
 
