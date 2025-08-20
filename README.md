@@ -31,7 +31,7 @@ Con ella podrás consultar tu información académica de forma rápida, sencilla
 
 Haz clic en el botón para descargar la última versión:  
 
-[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-APK-brightgreen?style=for-the-badge)](./releases/latest)  
+[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-APK-brightgreen?style=for-the-badge)](./App/app-release.apk)  
 
 ---
 
